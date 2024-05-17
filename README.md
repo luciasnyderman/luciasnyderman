@@ -1,0 +1,4 @@
+# Background
+My name is Lucia Snyderman and I’m interested in uncovering the extinction stories of species using diverse conservation paleobiology tools to directly inform conservation management.
+
+I received a Bachelor’s of Arts in Biology at Middlebury College. For my senior thesis with Dr. Alexis Mychajliw, I researched the spatiotemporal extinction dynamics of the Great Auk (an extinct large flightless seabird). I am currently pursuing a PhD (“The Pelican Brief”: Using environmental archives to establish ecological baselines for UK wetland biodiversity restoration) at the Zoological Society of London and the University of Reading with Dr. Samuel Turvey, Dr. William Mills, and Dr. Stuart Black. I am investigating wetland ecosystem change in the United Kingdom through time, and how anthropogenic and climatic change have driven the extirpations of the Dalmatian pelican and sturgeon species, using stable isotope analysis, radiocarbon dating, and ancient DNA.
